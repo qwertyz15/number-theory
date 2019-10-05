@@ -7,8 +7,7 @@
     SOD     =   Π [((p^(a + 1)) - 1) / (p - 1)]
     GCD Sum =   Π [((a + 1) * p^a) - (a * p^(a - 1))]
     All Pair GCD Sum = Σ (gcdSum(i) - i)
-
-
+    
 **/
 
 #include <bits/stdc++.h>
