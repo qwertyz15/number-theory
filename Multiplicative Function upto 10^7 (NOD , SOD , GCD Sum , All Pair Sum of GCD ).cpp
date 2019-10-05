@@ -13,7 +13,7 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-#define MAX 1000000
+#define MAX 10000000
 
 long long bigPrime[MAX + 7];
 
